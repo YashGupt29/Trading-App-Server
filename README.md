@@ -7,13 +7,13 @@ Before you begin, make sure you have Node.js and npm installed on your system. Y
 1. Clone this repository to your local machine:
 
 ```sh
-   git clone https://github.com/Ritik5Prasad/GrowwServer.git
+   git clone https://github.com/YashGupt29/Trading-App-Server.git
 ```
 
 2. Navigate to the project directory:
 
 ```sh
-   cd groww-server
+   cd Trading-App-Server
 ```
 
 3. Rename the `env_template` according to your need local or prod file to `.env`:
